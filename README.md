@@ -1,7 +1,9 @@
-BlueFox is a fork of Firefox
+# BlueFox
 
-It was made to help keep Firefox's engine share up against the monopoly between Chromium and Webkit.
+**An independent fork of Firefox, built to support a more diverse browser ecosystem.**
 
-It is maintained by a single person that does not want profit from it.
+BlueFox is a fork of Mozilla Firefox created to help preserve and strengthen the role of Firefox’s browser engine in a web increasingly dominated by Chromium and WebKit-based browsers.
 
-BlueFox looks like stock Firefox still as it is in development still.
+Maintained by a single independent developer, BlueFox is a non-profit-driven project built around a commitment to browser diversity and the long-term sustainability of alternative web engines.
+
+BlueFox currently retains the familiar look and feel of stock Firefox, as the project remains under active development. Its design and features may evolve as development progresses.
